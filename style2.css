@@ -1,0 +1,84 @@
+.box{
+    width: 85%;
+    height: 450px;
+    background-color: rgb(5, 59, 103);
+    position: relative;
+    right:110px;
+  
+}
+body{
+    padding-left: 510px;
+    padding-top: 120px;
+    background-color: black;
+}
+.box2{
+    width: 290px;
+    height: 340px;
+    background-color: white;
+    padding-right: 100px;
+    position: relative;
+    left:50%;
+    bottom: 500px;
+    border-radius: 8px;
+}
+h2{
+   position: relative;
+   left : 140px;
+   top: 6px;
+}
+hr{
+    width: 134%;
+}
+.line{
+    height: 50%;
+    width: 5px;
+    color: white;
+    background-color: white ;
+    position: relative;
+    left: 30px;
+    top: 120px;
+    border-radius: 5px;
+}
+p{
+    font-size: 60px;
+    position: relative;
+    left: 60px;
+    bottom: 170px;
+    color: white;
+}
+.but1{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 300px;
+    height: 30px;
+}
+.but2{
+    position: relative;
+    left: 40px;
+    top: 50px;
+    width: 300px;
+    height: 30px;
+
+}
+button{
+   position: relative;
+   top: 60px;
+   left: 15%;
+   width: 300px;
+   height: 45px;
+   border-style: solid;
+   border-radius: 7px;
+   background-color: rgb(13, 40, 148);
+   color: white;
+}
+h5{
+    position: relative;
+    left: 40%;
+    bottom: -50px;
+}
+.for{
+    position: relative;
+    bottom: -50px;
+    left: 40px;
+}
